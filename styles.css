@@ -307,6 +307,19 @@
             .carousel-container {
                 height: 400px;
             }
+
+            .carousel-title{
+                margin-bottom: 0;
+            }
+
+            .carousel-nav{
+                margin-top: 0;
+            }
+
+            footer{
+                margin-top: 0;
+            }
+        
         }
 
         /* Decorative Elements */
