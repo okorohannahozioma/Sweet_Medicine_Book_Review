@@ -294,6 +294,11 @@
                 padding: 2rem;
             }
 
+             .question-text {
+            font-size: 1rem;
+            font-weight: 500;
+             } 
+
             .question-card.prev,
             .question-card.next {
                 display: none;
